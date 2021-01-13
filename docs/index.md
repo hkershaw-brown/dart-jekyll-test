@@ -15,6 +15,7 @@ banner-button-url: https://github.com/NCAR/DART
 
 # The Data Assimilation Research Testbed (DART)
 
+:dart: :koala: :tada:
 DART is a community facility for ensemble DA developed and maintained by
 the Data Assimilation Research Section (DAReS) at the National Center for
 Atmospheric Research (NCAR). DART provides modelers, observational scientists,
